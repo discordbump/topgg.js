@@ -1,6 +1,6 @@
-import Discord from 'discord.js';
-import EventEmitter from 'events';
-import fetch from 'node-fetch';
+const Discord = require('discord.js');
+const EventEmitter = require('events');
+const fetch = require('node-fetch');
 
 class APIError extends Error {
     constructor(message) {
