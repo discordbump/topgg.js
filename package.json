@@ -1,8 +1,8 @@
 {
   "name": "@foup/topgg",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Simple top.gg API wrapper",
-  "main": "index.ts",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/discordbump/topgg.js.git"
