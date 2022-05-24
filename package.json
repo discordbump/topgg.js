@@ -1,6 +1,6 @@
 {
   "name": "@foup/topgg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple top.gg API wrapper",
   "main": "index.ts",
   "repository": {
