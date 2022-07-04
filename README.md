@@ -6,7 +6,7 @@
   </p>
   <br />
   <p>
-    <a href="https://www.npmjs.com/package/@foup/toppgg"><img src="https://img.shields.io/npm/v/@foup/topgg.svg?maxAge=3600" alt="npm version" /></a>
+    <a href="https://www.npmjs.com/package/@foup/topgg"><img src="https://img.shields.io/npm/v/@foup/topgg.svg?maxAge=3600" alt="npm version" /></a>
     <a href="https://github.com/discordbump/topgg.js/actions"><img src="https://github.com/discordbump/topgg.js/actions/workflows/test.yml/badge.svg?" alt="Tests status" /></a>
   </p>
 </div>
